@@ -1,3 +1,3 @@
 print("xP")
-print (33)
-print(znowu)
+print (333)
+print("zowu")

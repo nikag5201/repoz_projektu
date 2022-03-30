@@ -1,2 +1,3 @@
 print("xP")
-print (333)
+print (33)
+print(znowu)
